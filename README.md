@@ -1,6 +1,4 @@
 - Manolo Müller
-- Absolute DSP amateur, interested in Max/MSP externals and VSTs
-- Currently learning C++ and JUCE
 - manolo@mmmanolo.com
 
 <!---
